@@ -271,10 +271,10 @@ const styles = StyleSheet.create({
   // BLOC ACTOR
   carousselActors: { marginTop: 10 },
   blocActor: {
-    width: "40%",
+    width: 150,
     height: 300,
     backgroundColor: "#303030",
-    marginRight: "2%",
+    marginRight: 10,
     borderRadius: 5,
   },
   imgActor: {
